@@ -8,5 +8,5 @@ class Level:
         self.name: str = None
         self.entity_list: list = None
 
-    def run(self) -> -> None:
+    def run(self) -> None:
         pass

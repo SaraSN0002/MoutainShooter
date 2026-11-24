@@ -6,5 +6,5 @@ from Enity import Enity
 
 class Background(Enity):
 
-    def move(self) -> -> None:
+    def move(self) -> None:
         pass

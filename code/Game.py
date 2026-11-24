@@ -6,5 +6,5 @@ class Game:
     def __init__(self):
         self.window: Surface = None
 
-    def run(self):
+    def run(self) -> None:
         pass

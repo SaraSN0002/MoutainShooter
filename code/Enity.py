@@ -11,5 +11,5 @@ class Enity(ABC):
         self.surf: Surface = None
         self.rect: Rect = None
 
-    def move(self) -> -> None:
+    def move(self):
         pass
